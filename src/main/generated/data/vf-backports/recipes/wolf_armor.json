@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": {
+      "item": "vf-backports:armadillo_scute"
+    }
+  },
+  "pattern": [
+    "X  ",
+    "XXX",
+    "X X"
+  ],
+  "result": {
+    "item": "vf-backports:wolf_armor"
+  },
+  "show_notification": true
+}

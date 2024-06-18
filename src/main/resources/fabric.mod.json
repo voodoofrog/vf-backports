@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "vf-backports",
+  "version": "${version}",
+  "name": "VoodooFrog's Backports",
+  "description": "Backporting features from the new to the old!",
+  "authors": [
+    "VoodooFrog"
+  ],
+  "contact": {
+    "homepage": "https://github.com/voodoofrog"
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/vf-backports/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "uk.co.forgottendream.vfbackports.datagen.ModDataGenerator"
+    ],
+    "main": [
+      "uk.co.forgottendream.vfbackports.VoodooFrogsBackports"
+    ],
+    "client": [
+      "uk.co.forgottendream.vfbackports.VoodooFrogsBackportsClient"
+    ],
+    "mm_shedaniel:early_risers": [
+      "uk.co.forgottendream.vfbackports.mm.EarlyRiser"
+    ]
+  },
+  "mixins": [
+    "vf-backports.mixins.json",
+    {
+      "config": "vf-backports.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "custom": {
+    "loom:injected_interfaces": {
+      "net/minecraft/class_1493": [
+        "uk/co/forgottendream/vfbackports/entity/passive/Armored"
+      ]
+    }
+  },
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*",
+    "mm_shedaniel": ">=2.3"
+  },
+  "suggests": {
+  }
+}

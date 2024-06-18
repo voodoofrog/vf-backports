@@ -1,0 +1,159 @@
+{
+  "entity.armadillo.eat": {
+    "subtitle": "subtitles.entity.armadillo.eat",
+    "sounds": [
+      "vf-backports:mob/armadillo/eat1",
+      "vf-backports:mob/armadillo/eat2",
+      "vf-backports:mob/armadillo/eat3"
+    ]
+  },
+  "entity.armadillo.hurt": {
+    "subtitle": "subtitles.entity.armadillo.hurt",
+    "sounds": [
+      "vf-backports:mob/armadillo/hurt1",
+      "vf-backports:mob/armadillo/hurt2",
+      "vf-backports:mob/armadillo/hurt3",
+      "vf-backports:mob/armadillo/hurt4",
+      "vf-backports:mob/armadillo/hurt5"
+    ]
+  },
+  "entity.armadillo.hurt_reduced": {
+    "subtitle": "subtitles.entity.armadillo.hurt_reduced",
+    "sounds": [
+      "vf-backports:mob/armadillo/hurt_reduced1",
+      "vf-backports:mob/armadillo/hurt_reduced2",
+      "vf-backports:mob/armadillo/hurt_reduced3",
+      "vf-backports:mob/armadillo/hurt_reduced4"
+    ]
+  },
+  "entity.armadillo.ambient": {
+    "subtitle": "subtitles.entity.armadillo.ambient",
+    "sounds": [
+      "vf-backports:mob/armadillo/ambient1",
+      "vf-backports:mob/armadillo/ambient2",
+      "vf-backports:mob/armadillo/ambient3",
+      "vf-backports:mob/armadillo/ambient4",
+      "vf-backports:mob/armadillo/ambient5",
+      "vf-backports:mob/armadillo/ambient6",
+      "vf-backports:mob/armadillo/ambient7",
+      "vf-backports:mob/armadillo/ambient8"
+    ]
+  },
+  "entity.armadillo.step": {
+    "subtitle": "subtitles.entity.armadillo.step",
+    "sounds": [
+      "vf-backports:mob/armadillo/step1",
+      "vf-backports:mob/armadillo/step2",
+      "vf-backports:mob/armadillo/step3",
+      "vf-backports:mob/armadillo/step4",
+      "vf-backports:mob/armadillo/step5"
+    ]
+  },
+  "entity.armadillo.death": {
+    "subtitle": "subtitles.entity.armadillo.death",
+    "sounds": [
+      "vf-backports:mob/armadillo/death1",
+      "vf-backports:mob/armadillo/death2",
+      "vf-backports:mob/armadillo/death3",
+      "vf-backports:mob/armadillo/death4"
+    ]
+  },
+  "entity.armadillo.roll": {
+    "subtitle": "subtitles.entity.armadillo.roll",
+    "sounds": [
+      "vf-backports:mob/armadillo/roll1",
+      "vf-backports:mob/armadillo/roll2",
+      "vf-backports:mob/armadillo/roll3",
+      "vf-backports:mob/armadillo/roll4"
+    ]
+  },
+  "entity.armadillo.land": {
+    "subtitle": "subtitles.entity.armadillo.land",
+    "sounds": [
+      "vf-backports:mob/armadillo/land1",
+      "vf-backports:mob/armadillo/land2",
+      "vf-backports:mob/armadillo/land3",
+      "vf-backports:mob/armadillo/land4"
+    ]
+  },
+  "entity.armadillo.scute_drop": {
+    "subtitle": "subtitles.entity.armadillo.scute_drop",
+    "sounds": [
+      "vf-backports:mob/armadillo/scute_drop1",
+      "vf-backports:mob/armadillo/scute_drop2"
+    ]
+  },
+  "entity.armadillo.unroll_finish": {
+    "subtitle": "subtitles.entity.armadillo.unroll_finish",
+    "sounds": [
+      "vf-backports:mob/armadillo/unroll_finish1",
+      "vf-backports:mob/armadillo/unroll_finish2"
+    ]
+  },
+  "entity.armadillo.peek": {
+    "subtitle": "subtitles.entity.armadillo.peek",
+    "sounds": [
+      "vf-backports:mob/armadillo/peek"
+    ]
+  },
+  "entity.armadillo.unroll_start": {
+    "subtitle": "subtitles.entity.armadillo.unroll_start",
+    "sounds": [
+      "vf-backports:mob/armadillo/unroll_start"
+    ]
+  },
+  "entity.armadillo.brush": {
+    "subtitle": "subtitles.entity.armadillo.brush",
+    "sounds": [
+      "vf-backports:mob/armadillo/brush_armadillo1",
+      "vf-backports:mob/armadillo/brush_armadillo2"
+    ]
+  },
+  "item.armor.equip_wolf": {
+    "subtitle": "subtitles.item.armor.equip_wolf",
+    "sounds": [
+      "vf-backports:item/armor/equip_wolf1",
+      "vf-backports:item/armor/equip_wolf2"
+    ]
+  },
+  "item.armor.unequip_wolf": {
+    "subtitle": "subtitles.item.armor.unequip_wolf",
+    "sounds": [
+      "vf-backports:item/armor/unequip_wolf1",
+      "vf-backports:item/armor/unequip_wolf2"
+    ]
+  },
+  "item.wolf_armor.repair": {
+    "subtitle": "subtitles.item.wolf_armor.repair",
+    "sounds": [
+      "vf-backports:item/armor/repair_wolf1",
+      "vf-backports:item/armor/repair_wolf2",
+      "vf-backports:item/armor/repair_wolf3",
+      "vf-backports:item/armor/repair_wolf4"
+    ]
+  },
+  "item.wolf_armor.damage": {
+    "subtitle": "subtitles.item.wolf_armor.damage",
+    "sounds": [
+      "vf-backports:item/armor/damage_wolf1",
+      "vf-backports:item/armor/damage_wolf2",
+      "vf-backports:item/armor/damage_wolf3",
+      "vf-backports:item/armor/damage_wolf4"
+    ]
+  },
+  "item.wolf_armor.crack": {
+    "subtitle": "subtitles.item.wolf_armor.crack",
+    "sounds": [
+      "vf-backports:item/armor/crack_wolf1",
+      "vf-backports:item/armor/crack_wolf2",
+      "vf-backports:item/armor/crack_wolf3",
+      "vf-backports:item/armor/crack_wolf4"
+    ]
+  },
+  "item.wolf_armor.break": {
+    "subtitle": "subtitles.item.wolf_armor.break",
+    "sounds": [
+      "vf-backports:item/armor/break_wolf"
+    ]
+  }
+}

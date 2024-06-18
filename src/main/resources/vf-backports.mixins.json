@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "package": "uk.co.forgottendream.vfbackports.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "AnimationStateAccessor",
+    "WolfEntityMixin",
+    "TameableEntityMixin",
+    "MobEntityMixin",
+    "LivingEntityMixin",
+    "TypeSpecificPredicateMixin",
+    "VanillaHusbandryTabAdvancementGeneratorMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
